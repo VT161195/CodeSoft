@@ -1,2 +1,2 @@
 # CodeSoft
-I developed this grade calculator by using java
+I developed these task by using java
